@@ -71,13 +71,13 @@ Click on the "Submit Project" button in the classroom and follow the instruction
 
 ### Files Submitted
 
-- []  The submission includes all required, complete notebook files.
+[]  The submission includes all required, complete notebook files.
 
 ### Step 1: Detect Humans
 
 Question 1: Assess the Human Face Detector
 
-- [] The submission returns the percentage of the first 100 images in the dog and human face datasets that include a detected, human face.
+[] The submission returns the percentage of the first 100 images in the dog and human face datasets that include a detected, human face.
 
 ### Step 2: Detect Dogs
 
@@ -87,17 +87,17 @@ Use a pre-trained VGG16 Net to find the predicted class for a given image. Use t
 
 #### Question 2: Assess the Dog Detector
 
-- [] The submission returns the percentage of the first 100 images in the dog and human face datasets that include a detected dog.
+[] The submission returns the percentage of the first 100 images in the dog and human face datasets that include a detected dog.
 
 ### Step 3: Create a CNN to Classify Dog Breeds (from Scratch)
 
 #### Specify DataLoaders for the Dog Dataset
 
-- [] Write three separate data loaders for the training, validation, and test datasets of dog images. These images should be pre-processed to be of the correct size.
+[] Write three separate data loaders for the training, validation, and test datasets of dog images. These images should be pre-processed to be of the correct size.
 
 #### Question 3: Describe your chosen procedure for preprocessing the data.
 
-- [] Answer describes how the images were pre-processed and/or augmented.
+[] Answer describes how the images were pre-processed and/or augmented.
 
 #### Model Architecture
 
@@ -105,25 +105,25 @@ The submission specifies a CNN architecture.
 
 #### Question 4: Outline the steps you took to get to your final CNN architecture and your reasoning at each step.
 
-- [] Answer describes the reasoning behind the selection of layer types.
+[] Answer describes the reasoning behind the selection of layer types.
 
 #### Train the Model
 
-- [] Choose appropriate loss and optimization functions for this classification task. Train the model for a number of epochs and save the "best" result.
+[] Choose appropriate loss and optimization functions for this classification task. Train the model for a number of epochs and save the "best" result.
 
 #### Test the Model
 
-- [] The trained model attains at least 10% accuracy on the test set.
+[] The trained model attains at least 10% accuracy on the test set.
 
 ### Step 4: Create a CNN Using Transfer Learning
 
 #### Model Architecture
 
-- [] The submission specifies a model architecture that uses part of a pre-trained model.
+[] The submission specifies a model architecture that uses part of a pre-trained model.
 
 #### Question 5: Model Architecture
 
-- [] The submission details why the chosen architecture is suitable for this classification task.
+[] The submission details why the chosen architecture is suitable for this classification task.
 
 #### Train and Validate the Model
 
@@ -131,23 +131,23 @@ Train your model for a number of epochs and save the result wth the lowest valid
 
 #### Test the Model
 
-- [] Accuracy on the test set is 60% or greater.
+[] Accuracy on the test set is 60% or greater.
 
 #### Predict Dog Breed with the Model
 
-- [] The submission includes a function that takes a file path to an image as input and returns the dog breed that is predicted by the CNN.
+[] The submission includes a function that takes a file path to an image as input and returns the dog breed that is predicted by the CNN.
 
 ### Step 5: Write Your Algorithm
 
 #### Write your Algorithm
 
-- [] The submission uses the CNN from the previous step to detect dog breed. The submission has different output for each detected image type (dog, human, other) and provides either predicted actual (or resembling) dog breed.
+[] The submission uses the CNN from the previous step to detect dog breed. The submission has different output for each detected image type (dog, human, other) and provides either predicted actual (or resembling) dog breed.
 
 ### Step 6: Test Your Algorithm
 
 #### Test Your Algorithm on Sample Images!
 
-- [] The submission tests at least 6 images, including at least two human and two dog images.
+[] The submission tests at least 6 images, including at least two human and two dog images.
 
 #### Question 6: Weaknesses and Improvements
 
