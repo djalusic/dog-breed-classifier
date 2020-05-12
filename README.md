@@ -151,7 +151,7 @@ The submission specifies a CNN architecture.
 
 #### Question 6: Weaknesses and Improvements
 
-Submission provides at least three possible points of improvement for the classification algorithm.
+[x] Submission provides at least three possible points of improvement for the classification algorithm.
 
 ### Suggestions to Make Your Project Stand Out!
 (Presented in no particular order ...)
